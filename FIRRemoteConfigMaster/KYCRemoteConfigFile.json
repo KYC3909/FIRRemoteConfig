@@ -1,0 +1,8 @@
+{
+    "bg_splash_screen"      : "http://undha.com/demo/rootscan-firebase.png",
+    "time_splash"           : "3000",
+    "color_header"          : "#EB3148",
+    "color_app_primary"     : "#061C3F",
+    "color_alpha_header"    : "#061C3F66",
+    "boolean_item"          : "false"
+}
