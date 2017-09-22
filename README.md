@@ -2,7 +2,7 @@
 
 ### What is this repository for? ###
 
-* This Repository is for the just plug and play with 'Firebase Remote Config' with ease than ever.
+* This Repository is for the just plug and play with 'Firebase Remote Config' with ease than ever using 'JSON' file.
 
 
 ### How do I get set up? ###
